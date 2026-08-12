@@ -1,16 +1,66 @@
-## Hi there 👋
 
-<!--
-**Harshini1026/Harshini1026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Harshini 👋
 
-Here are some ideas to get you started:
+### Flutter Developer | Dart | Firebase | Mobile App Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate Flutter Developer focused on building modern, user-friendly mobile applications.  
+Currently learning and improving my skills in Flutter, Firebase, state management, and REST API integration.
+
+---
+
+## 🛠️ Skills
+
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,python,html,css,js,git,github)](https://skillicons.dev)
+
+**State Management:** Provider • BLoC  
+**Backend & APIs:** Firebase • Firestore • REST API  
+**Other:** Git • GitHub
+
+---
+
+## 🚀 Projects
+
+### 📱 Tugelo
+Local E-commerce Mobile Application built with Flutter and Firebase.
+
+### 🤖 App Forge
+Low-Code Mobile Application Builder with AI-assisted features using Flutter & Firebase.
+
+### 🛒 Techy Trends
+E-commerce website for gadgets and accessories built using HTML, CSS and JavaScript.
+
+### 🍔 Food Delivery App
+Mobile food delivery application developed using Flutter.
+
+### 📸 Instagram Clone
+Instagram-inspired mobile application built using Flutter.
+
+---
+
+## 💼 Internship
+
+**Flutter Developer Intern – AMSOL**
+
+Working as a Flutter Developer Intern, developing mobile applications using Flutter and Dart, with hands-on experience in Firebase, state management, and REST API integration.
+
+**Web Design Intern – GTEC**
+
+Worked on frontend development and web design for an e-commerce project.
+
+---
+
+## 🎓 Education
+
+**Information Technology**
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn
+- 📧 Email
+- 🐙 GitHub
+
+---
+
+⭐ Thanks for visiting my profile!
