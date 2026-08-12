@@ -21,19 +21,20 @@ Currently learning and improving my skills in Flutter, Firebase, state managemen
 ## 🚀 Projects
 
 ### 📱 Tugelo
-Local E-commerce Mobile Application built with Flutter and Firebase.
+Local E-commerce Mobile Application built with Flutter and Dart.
 
 ### 🤖 App Forge
 Low-Code Mobile Application Builder with AI-assisted features using Flutter & Firebase.
-
-### 🛒 Techy Trends
-E-commerce website for gadgets and accessories built using HTML, CSS and JavaScript.
 
 ### 🍔 Food Delivery App
 Mobile food delivery application developed using Flutter.
 
 ### 📸 Instagram Clone
 Instagram-inspired mobile application built using Flutter.
+
+### 🛒 Techy Trends
+E-commerce website for gadgets and accessories built using HTML, CSS and JavaScript.
+
 
 ---
 
