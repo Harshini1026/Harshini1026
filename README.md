@@ -57,9 +57,9 @@ Worked on frontend development and web design for an e-commerce project.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn
-- 📧 Email
-- 🐙 GitHub
+- 💼 LinkedIn-https://www.linkedin.com/in/harshiniraji-r30/
+- 📧 Email-harshiniraji1026@gmail.com
+- 🐙 GitHub-https://github.com/Harshini1026
 
 ---
 
