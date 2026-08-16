@@ -10,7 +10,7 @@ Currently learning and improving my skills in Flutter, Firebase, state managemen
 
 ## 🛠️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,python,html,css,js,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,html,css,js,git,github)](https://skillicons.dev)
 
 **State Management:** Provider • BLoC  
 **Backend & APIs:** Firebase • Firestore • REST API  
